@@ -94,6 +94,26 @@ Das Stoppsignal ungefähr alle **20–30 Sekunden** wiederholen. Dazwischen gen�
 
 Die Übungszeit und die Materialliste bleiben gleich: ein Ball je Paar bzw. Dreiergruppe, insgesamt 7–8 Bälle für 14–17 Kinder.
 
+## 5. Kleine Spiele: Dribbeltor oder Torschuss?
+
+**Bezug:** Hauptübung 2 „Kleine Spiele, viele Aktionen“, Dienstag 15.09.2026, 37.–52. Trainingsminute. **PDF: Seite 4.** Gilt für 3 gegen 3 bzw. 4 gegen 4, jeweils gegebenenfalls mit Joker.
+
+**Frage:** Zählt nur das Dribbeln durch das gegnerische Hütchentor, kein Schuss?
+
+**Klarstellung:** Ja. Ein Punkt zählt, wenn ein Kind den Ball am Fuß zwischen den beiden Hütchen hindurchführt und selbst mit durchläuft. Der Ball bleibt dabei kontrolliert in seiner Nähe. Ein Schuss oder weiter Stoß durch das Tor mit anschließendem Hinterherlaufen zählt nicht. Auch ein Pass durch das Tor allein gibt keinen Punkt.
+
+**Passen bleibt erlaubt:** Die Kinder dürfen im Feld ganz normal zusammenspielen. Ein Mitspieler kann ein Kind vor dem Tor anspielen; dieses nimmt den Ball an und dribbelt anschließend selbst durch das Tor.
+
+**Beispiele:**
+- Mit Ball am Fuß zwischen den Hütchen hindurchdribbeln: **ein Punkt**.
+- Aus mehreren Metern Entfernung durch die Hütchen schießen: **kein Punkt**.
+
+**Ansage an die Kinder:**
+
+> „Ihr dürft euch den Ball zuspielen. Einen Punkt gibt es, wenn ihr mit dem Ball am Fuß durch das gegnerische Hütchentor dribbelt. Nur durchschießen zählt nicht!“
+
+**Ziel dieser Aufgabe:** Gemeinsam einen Weg zum Tor finden und den Ball bis zum Durchbruch kontrollieren. Die Regel gehört nur zu dieser Kleinfeldübung. Im Abschlussspiel auf Jugendtore wird normal geschossen; auch die Torschussübung am Donnerstag bleibt bestehen.
+
 ## Weitere Einträge
 
 Neue Klarstellungen erhalten einen eigenen nummerierten Abschnitt mit:
