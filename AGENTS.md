@@ -18,3 +18,9 @@ Diese Regeln gelten für alle zukünftigen Arbeiten in diesem Repository. Sie ha
 - Keine unbestätigten Seitenzahlen oder Übungsbezüge erfinden. Bei allgemeiner Gültigkeit die Regel in `Saisonplanung` oder dem fachlich passenden Dokument festhalten und aus betroffenen Wochen darauf verweisen.
 - Wenn sich durch eine Klarstellung der geplante Ablauf tatsächlich ändert, auch den bearbeitbaren Wochenplan konsistent aktualisieren. Keine Aktualisierung der PDF behaupten, wenn sie nicht neu erzeugt und geprüft wurde.
 - Die Ergänzungsdatei und die zugehörigen Projektänderungen im bestehenden Repository speichern und entsprechend der laufenden Nutzerautorisierung nach `main` übertragen. Keine fremden Änderungen überschreiben.
+
+## Vorgelegte Minifußballregeln berücksichtigen
+
+- Bei künftiger Trainings- und Spieltagsplanung den Trainermerkzettel in `Saison_2026-2027/Trainersprache/02_Begruessung_Saisonstart_und_Schulanfang.md` berücksichtigen. Er dokumentiert die vom Nutzer vorgelegte BFV-Unterlage `05(1).pdf`, Oberbayern, Saison 2025/2026, gezeichnet am 03.03.2026.
+- Fußball7-Liga, Fußball5-Liga und Turnier-/Festivalformen getrennt behandeln; insbesondere Rotation, Spielzeit und Torzonenregeln nicht vermischen. Trainingssonderregeln ausdrücklich kennzeichnen.
+- Den Quellenstand beibehalten; unveränderte Gültigkeit für spätere Saisons nicht ohne Bestätigung behaupten. E1/E2-Einsatzbeschränkungen bei der Spieltagsplanung beachten.
