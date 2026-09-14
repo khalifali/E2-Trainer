@@ -64,6 +64,36 @@ Das Stoppsignal ungefähr alle **20–30 Sekunden** wiederholen. Dazwischen gen�
 
 **Unterschied zum freien Dribbeln:** Die Kinder halten bewusst an, lösen den Blick vom Ball und wählen vor dem erneuten Losdribbeln eine Richtung. Es geht um Ballkontrolle und Orientierung, nicht um einen möglichst schnellen Start.
 
+## 4. Passen und Freilaufen: Wann kommt das nächste Paar?
+
+**Bezug:** Hauptübung 1 „Passen und wieder anbieten“, Dienstag 15.09.2026, 22.–37. Trainingsminute. **PDF: Seite 3.**
+
+**Frage:** Was passiert nach dem Pass von B zurück zu A? Wann startet das nächste Paar?
+
+**Klarstellung:** Alle Paare beginnen gleichzeitig im gemeinsamen Feld. Jedes Paar hat einen eigenen Ball und bleibt während der Übung zusammen. Es gibt keine wartenden Paare, keine Schlange und keinen Eintritt eines neuen Paares nach einer Aktion. Die Skizze zeigt nur ein Paar, damit der Ablauf erkennbar bleibt.
+
+**Start:** Paare auf verschiedene freie Hütchentore verteilen. A und B stehen auf gegenüberliegenden Seiten ihres ersten Tores. Auf das gemeinsame Startsignal beginnen alle. Die Tore sind danach frei wählbar und keinem Paar fest zugeordnet.
+
+**Fortlaufender Ablauf:**
+
+1. A passt durch Tor 1 zu B.
+2. B nimmt den Ball seitlich mit und dribbelt zu einem anderen freien Tor, beispielsweise Tor 2. A läuft ohne Ball mit und bietet sich auf dessen gegenüberliegender Seite an.
+3. B passt durch Tor 2 zu A.
+4. Jetzt nimmt **A** den Ball seitlich mit und dribbelt zum nächsten freien Tor, beispielsweise Tor 3. **B** läuft mit und bietet sich gegenüber an.
+5. A passt durch Tor 3 zu B. So geht es bis zur nächsten Trainerunterbrechung weiter.
+
+**Merksatz:** Wer den Pass bekommt, dribbelt zum nächsten Tor. Wer gepasst hat, läuft mit und bietet sich dort wieder an.
+
+**Gemeinsame Tornutzung:** Ist ein Tor gerade durch ein anderes Paar belegt, ein anderes freies Tor wählen. Nicht zwischen einem gerade ausgeführten Pass hindurchlaufen. Nach einem verlorenen Ball holt das Paar seinen Ball und setzt die Aufgabe fort. Nicht zweimal hintereinander dasselbe Tor nutzen; ein früher genutztes Tor darf später wieder gewählt werden.
+
+**Bei ungerader Kinderzahl:** Die Dreiergruppe arbeitet gleichzeitig mit den Paaren, mit einem eigenen Ball und der Reihenfolge A–B–C–A. Der Empfänger dribbelt zum nächsten Tor, der nächste Passempfänger bietet sich gegenüber an; das dritte Kind läuft mit. Auch hier wartet keine neue Gruppe außerhalb des Feldes.
+
+**Ansage an die Kinder:**
+
+> „Jedes Paar bekommt einen Ball. Ihr startet alle gleichzeitig und bleibt zusammen. Nach dem Pass sucht ihr euch ein anderes freies Tor. Wer den Ball bekommt, dribbelt dorthin. Der andere läuft mit und bietet sich auf der anderen Seite an. Dann tauscht ihr die Aufgaben wieder.“
+
+Die Übungszeit und die Materialliste bleiben gleich: ein Ball je Paar bzw. Dreiergruppe, insgesamt 7–8 Bälle für 14–17 Kinder.
+
 ## Weitere Einträge
 
 Neue Klarstellungen erhalten einen eigenen nummerierten Abschnitt mit:
