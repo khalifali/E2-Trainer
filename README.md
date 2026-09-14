@@ -28,6 +28,10 @@ Trainings- und Organisationsunterlagen für die **E-Jugend, Saison 2026/2027**.
 
 Ordnernamen enthalten keine Leerzeichen oder Umlaute, die Dokumente verwenden normales Deutsch. Nächste Saison erhält einen eigenen Ordner `Saison_2027-2028`.
 
+## Klarstellungen aus unseren Gesprächen
+
+Jede geklärte Trainingsfrage wird künftig in `Ergaenzungen_und_Klarstellungen.md` im betreffenden Wochenordner festgehalten – mit Übungsname, Trainingstag und PDF-Seite. [Klarstellungen zu W01](Saison_2026-2027/Trainingswochen/W01_2026-09-14/Ergaenzungen_und_Klarstellungen.md). Die dauerhaften Arbeitsregeln stehen in [AGENTS.md](AGENTS.md).
+
 ## Benennung und Pflege
 
 - Trainingswoche: `W01_2026-09-14` (fortlaufende Trainingswoche + Montag der Woche; **keine Kalenderwochennummer**).

@@ -2,6 +2,8 @@
 
 [Bebilderter Wochenplan als PDF](E-Jugend_Trainingsplan_Woche_1.pdf)
 
+[Ergänzungen und Klarstellungen zu den Übungen](Ergaenzungen_und_Klarstellungen.md) – unter anderem Torwahl, Durchgänge zählen sowie die getrennten Signale „Stopp“ und „Weiter“.
+
 **Ziel:** Nach dem Pass anbieten, mit Ball Platz schaffen und nach Ballverlust gemeinsam zurückhelfen.
 
 **Rahmen:** Je Einheit 90 Minuten, erwartet **14–17 Kinder**, zwei Trainer. Freitag 18.09.: 7 gegen 7, vier Viertel à 15 Minuten, Wechsel nur in den Viertelpausen laut Trainerangabe.
@@ -24,7 +26,7 @@ Erwartet: **14–17 Kinder**. Tatsächlich: _____. Trainer: ____________________
 | Minute | Inhalt | Organisation |
 |---|---|---|
 | 0–5 | Begrüßung und Wochenziel | Kurz erklären und vormachen |
-| 5–20 | Dribbeln durch acht Hütchentore | 3 Min. frei; 4 Min. Richtungswechsel; 4 Min. Stoppsignal; 4 × (45 Sek. Tore sammeln + 15 Sek. locker) |
+| 5–20 | Dribbeln durch acht Hütchentore | 3 Min. frei; 4 Min. anderes freies Tor wählen; 4 Min. „Stopp“ und „Weiter“; 4 × (45 Sek. Durchgänge zählen + 15 Sek. locker) |
 | 20–22 | Trinken | Paare/Trio einteilen |
 | 22–37 | Passen und Freilaufen | 3 Min. zeigen/ausprobieren; 5 Min. Pass und Mitnahme; 5 Min. neu anbieten; 2 Min. saubere Pässe zählen |
 | 37–52 | Zwei kleine Spiele | 1 Min. Erklärung; 4 × 3 Min. Spiel; 1 Min. Pause nach Runde 1 und 2 |
@@ -62,7 +64,7 @@ Erwartet: **14–17 Kinder**. Tatsächlich: _____. Trainer: ____________________
 | Minute | Inhalt | Organisation |
 |---|---|---|
 | 0–5 | Begrüßung | Bekannte Aufgaben nennen |
-| 5–17 | Lockeres Dribbeln durch Tore | 4 Min. frei; 4 Min. rechts/links; 4 Min. stoppen und schauen |
+| 5–17 | Lockeres Dribbeln durch Tore | 4 Min. frei; 4 Min. rechts/links; 4 Min. „Stopp“, 2–3 Sek. umschauen, „Weiter“ |
 | 17–20 | Trinken | Zwei Gruppen bilden |
 | 20–35 | Pass, Mitnahme, Torschuss | 2 Min. vormachen + 3 × 4 Min. Übung + zweimal 30 Sek. Wechsel |
 | 35–50 | Aufbau und Einwurf | 7 Min. Aufbau + 1 Min. Wechsel + 7 Min. Einwurf |
@@ -76,7 +78,7 @@ Erwartet: **14–17 Kinder**. Tatsächlich: _____. Trainer: ____________________
 
 ### Übungen
 
-**Dribbeln:** Aufbau wie Dienstag, ohne Tore-Wettbewerb. Material: 20 Hütchen, 14–17 Bälle.
+**Dribbeln:** Aufbau wie Dienstag, ohne Zählwettbewerb. Zwei Signale verwenden: „Stopp“, etwa 2–3 Sekunden zum Umschauen, dann „Weiter“. Material: 20 Hütchen, 14–17 Bälle.
 
 **Pass und Schuss:** Je Trainer eine Station (20 × 18 m); mindestens 3 m Abstand. 1 Torwart, zwei Reihen A/B. A steht ca. 14 m, B ca. 10 m vor dem Tor, seitlich versetzt. A passt zu B und stellt sich bei B an. B nimmt Richtung Tor mit, schießt aus ca. 7–9 m, holt den Ball und stellt sich bei A an. Nächste Aktion erst bei freiem Schussweg. Nach jeder 4-Minuten-Runde Torwart wechseln; in Runde 2 andere Seite wählen. Material: 2 Tore, 12 Hütchen (8 Ecken + 4 Startpunkte), 8 Bälle. „Erster Kontakt Richtung Tor!“ / „Genau schießen!“
 
