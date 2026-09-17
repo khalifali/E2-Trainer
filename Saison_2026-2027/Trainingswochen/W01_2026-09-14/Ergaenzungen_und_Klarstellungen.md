@@ -1,6 +1,6 @@
 # W01 · Ergänzungen und Klarstellungen
 
-Diese Datei sammelt die im Gespräch geklärten Fragen zum [Wochenplan](Wochenplan.md) und zur [PDF mit Skizzen](E-Jugend_Trainingsplan_Woche_1.pdf). Die folgenden Erläuterungen präzisieren die kurzen Beschreibungen im Plan. Die PDF wurde für diese Ergänzungen nicht neu erstellt.
+Diese Datei sammelt die im Gespräch geklärten Fragen zum [Wochenplan](Wochenplan.md) und zur [PDF mit Skizzen](E-Jugend_Trainingsplan_Woche_1.pdf). Die folgenden Erläuterungen präzisieren die kurzen Beschreibungen im Plan. Die PDF wurde am 17.09.2026 aktualisiert und visuell geprüft; die neuen Donnerstagsübungen stehen auf Seiten 6-7, die Rotation auf Seite 12.
 
 Jeder Eintrag nennt die zugehörige Übung, den Trainingstag und die betreffende PDF-Seite. Weitere Klarstellungen werden hier ergänzt.
 
@@ -116,7 +116,7 @@ Die Übungszeit und die Materialliste bleiben gleich: ein Ball je Paar bzw. Drei
 
 ## 6. Donnerstag: mehr Entscheidungen, Gegnerdruck und gemeinsame Aktionen
 
-**Bezug:** Donnerstag 17.09.2026, 20.–35. Minute (bisher „Pass und Schuss“) und 35.–50. Minute (bisher „Aufbau/Einwurf“). Die PDF zeigt noch die alten Übungen und wurde nicht neu erstellt; die Seitenzuordnung dieser beiden Übungen wurde hier nicht geprüft. Maßgeblich ist der aktualisierte [Wochenplan](Wochenplan.md#donnerstag--17092026).
+**Bezug:** Donnerstag 17.09.2026, 20.–35. Minute (bisher „Pass und Schuss“) und 35.–50. Minute (bisher „Aufbau/Einwurf“). Die aktualisierte PDF zeigt die Torjagd auf Seite 6, den Spielaufbau auf Seite 7 und die Rotation auf Seite 12. Maßgeblich ist der aktualisierte [Wochenplan](Wochenplan.md#donnerstag--17092026).
 
 **Frage:** Der einfache Ablauf A passt zu B, B schießt sowie der Aufbau ohne Gegner bieten zu wenig Abwechslung. Können wir kreativer passen und mitnehmen sowie gegen ein bis drei Gegner aufbauen? Sind Trainingsfiguren sinnvoll?
 
@@ -146,3 +146,4 @@ Neue Klarstellungen erhalten einen eigenen nummerierten Abschnitt mit:
 - geklärtem Ablauf einschließlich Signalen, Dauer und Rotation, soweit relevant;
 - direkt verwendbarer Traineransage;
 - gegebenenfalls Auswirkungen auf Material, Gruppen oder Zeitplan.
+

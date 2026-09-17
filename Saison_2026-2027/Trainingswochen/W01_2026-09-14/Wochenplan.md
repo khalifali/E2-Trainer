@@ -2,7 +2,7 @@
 
 [Bebilderter Wochenplan als PDF](E-Jugend_Trainingsplan_Woche_1.pdf)
 
-**Stand 17.09.2026:** Die beiden Hauptübungen am Donnerstag wurden unten ersetzt. Die bestehende PDF zeigt dafür noch den alten Ablauf; für Donnerstag gilt dieser bearbeitbare Plan.
+**Stand 17.09.2026:** Die beiden Hauptübungen am Donnerstag wurden unten ersetzt. Die PDF wurde neu erstellt und geprüft: Torjagd auf Seite 6, Spielaufbau auf Seite 7, Rotation und Nebenfeld auf Seite 12.
 
 [Ergänzungen und Klarstellungen zu den Übungen](Ergaenzungen_und_Klarstellungen.md) – unter anderem Torwahl, Durchgänge zählen sowie die getrennten Signale „Stopp“ und „Weiter“.
 
@@ -141,3 +141,4 @@ Im Hauptfeld sind immer sieben Aufbauspieler plus die gewählte Zahl an Gegnern.
 - Gelungen: __________________________________________
 - Wiederholen: _______________________________________
 - Nächster Schwerpunkt: ______________________________
+
