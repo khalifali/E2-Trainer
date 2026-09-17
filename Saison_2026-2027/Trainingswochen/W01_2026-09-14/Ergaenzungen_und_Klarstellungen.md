@@ -114,6 +114,29 @@ Die Übungszeit und die Materialliste bleiben gleich: ein Ball je Paar bzw. Drei
 
 **Ziel dieser Aufgabe:** Gemeinsam einen Weg zum Tor finden und den Ball bis zum Durchbruch kontrollieren. Die Regel gehört nur zu dieser Kleinfeldübung. Im Abschlussspiel auf Jugendtore wird normal geschossen; auch die Torschussübung am Donnerstag bleibt bestehen.
 
+## 6. Donnerstag: mehr Entscheidungen, Gegnerdruck und gemeinsame Aktionen
+
+**Bezug:** Donnerstag 17.09.2026, 20.–35. Minute (bisher „Pass und Schuss“) und 35.–50. Minute (bisher „Aufbau/Einwurf“). Die PDF zeigt noch die alten Übungen und wurde nicht neu erstellt; die Seitenzuordnung dieser beiden Übungen wurde hier nicht geprüft. Maßgeblich ist der aktualisierte [Wochenplan](Wochenplan.md#donnerstag--17092026).
+
+**Frage:** Der einfache Ablauf A passt zu B, B schießt sowie der Aufbau ohne Gegner bieten zu wenig Abwechslung. Können wir kreativer passen und mitnehmen sowie gegen ein bis drei Gegner aufbauen? Sind Trainingsfiguren sinnvoll?
+
+**Geänderter Ablauf:**
+
+- **20.–35. Minute: Torjagd.** Zwei kleine Felder mit jeweils vier Hütchentoren. 3 gegen 3 + Joker, 4 gegen 4 oder 4 gegen 4 + Joker, abhängig von der Gruppengröße. Pass durch ein freies Tor und kontrollierte Mitnahme ins Freie zählen einen Punkt; danach ein anderes Tor suchen. Gegner greifen aktiv an. Alle spielen gleichzeitig, ohne Reihen oder Wartezeiten. 2 Minuten zeigen, drei Spielrunden à 4 Minuten, dazwischen zweimal 30 Sekunden für Jokerwechsel/Trinken.
+- **35.–50. Minute: Spielaufbau 7 gegen 2.** Die Sieben sind Torwart plus sechs Feldspieler in 2–3–1. Sie greifen zwei Dribbeltore an; Balljäger dürfen nach Ballgewinn auf das Jugendtor kontern. Ein Gegner ist die leichtere Variante, drei sind die Steigerung. Keine feste Passfolge. 2 Minuten zeigen, vier Runden à 3 Minuten und insgesamt 1 Minute Wechselzeit.
+- **Beschäftigung und Rotation:** Zwei Gruppen mit 7+7, 7+8, 8+8 oder 8+9 Kindern. Gruppe A baut in Runde 1–2 auf, Gruppe B in Runde 3–4. Die andere Gruppe stellt die Gegner. Nach etwa 90 Sekunden bei einer Unterbrechung Gegner austauschen und ggf. die übrigen Kinder der Aufbaugruppe einwechseln. Alle übrigen Kinder spielen beim zweiten Trainer Ballhalten im Nebenfeld. Der Wochenplan enthält die vollständigen Einteilungen und Materialzahlen.
+- **Trainingsfiguren:** Optional eine pro Torjagdfeld als Hindernis in einer Passlinie. Seitlich aus dem Deckungsschatten anbieten; Tore und deren Auslauf freihalten. Die Figur ergänzt die echten Gegner.
+- **Seitenaus:** Der alte Einwurfteil wird durch flaches Einspielen/Eindribbeln ersetzt, entsprechend dem hinterlegten Trainermerkzettel. In Aufbaurunde 2 und 4 beginnt der erste Angriff an der Seitenlinie; kurze und weite Anspieloption anbieten. Quellenstand BFV 2025/26 bleibt ausdrücklich erhalten.
+- **Material:** Donnerstag 17 Bälle, 40 Hütchen, 9 blaue/9 rote/3 gelbe Leibchen, 2 gesicherte Jugendtore und optional 2 Figuren. Material zwischen den Blöcken wiederverwenden. Hauptfeld und Nebenfeld mit mindestens 3 m Abstand.
+
+**Traineransagen:**
+
+> „Passt durch ein freies Tor und nehmt den Ball ins Freie mit. Dann sucht ihr das nächste Tor!“
+
+> „Helft dem Torwart und macht das Feld breit! Die Balljäger dürfen nach Ballgewinn auf unser Tor schießen.“
+
+**Abgrenzung:** Die frühere Aussage in Abschnitt 5, die Torschussübung am Donnerstag bleibe bestehen, ist für diese überarbeitete Einheit ersetzt: An ihrer Stelle steht jetzt die Torjagd. Torschüsse bleiben beim Konter im Aufbau und im Abschlussspiel enthalten. Die neue Torjagd zählt erfolgreiche Pässe mit Mitnahme; die Dribbeltorregel aus Abschnitt 5 gilt weiterhin ausschließlich für die dort genannte Dienstagsübung. Alle besonderen Punkte-, Startabstands- und Rotationsregeln der neuen Übungen sind Trainingsregeln.
+
 ## Weitere Einträge
 
 Neue Klarstellungen erhalten einen eigenen nummerierten Abschnitt mit:
