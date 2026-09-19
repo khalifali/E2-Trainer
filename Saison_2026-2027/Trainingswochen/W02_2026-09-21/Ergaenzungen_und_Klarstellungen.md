@@ -35,3 +35,16 @@
 ## Quellenstand / Sonntag
 
 Der Plan übernimmt Sonntag aus der aktuellen Nutzervorgabe, ohne Uhrzeit oder Gegner zu erfinden. Der hinterlegte BFV-Merkzettel 2025/26 dient als dokumentierter Hintergrund; seine unveränderte Gültigkeit 2026/27 wird nicht behauptet. Trainingswertung und Wechsel sind ausdrücklich getrennt von Wettbewerbsregeln.
+
+
+## Dienstag | Bildanleitung und genaue Maße (PDF S. 8-13)
+
+**Frage:** Text allein ist schwer nachzuvollziehen; Aufwärmen und alle drei Hauptvarianten brauchen eigene Bilder und mehr Maße.
+
+**Geklärt:** Sechs neue Bildkarten ergänzen den Ablauf: bemaßter Aufbau (S. 8), Spiegel-Dribbling (S. 9), Partnerpass durch das Außentor (S. 10), Verfolger (S. 11), aktives 1 gegen 1 mit Außenkonter (S. 12), 2 gegen 1 (S. 13). Feld 30 × 23 m; Figur mittig 15 m vor dem Tor; A und P 21 m vor dem Tor mit etwa 10 m Passabstand. D in Variante 1 bei 23 m, in Variante 2/3 bei 12 m und 4 m seitlich versetzt. Zwei 3 m breite Außentore, je Mittelpunkt 4 m von der Seitenlinie. Abschlussbereich 10-14 m, bei Bedarf 8-10 m. Dies sind Trainingsmaße, keine zusätzlichen Spielregeln.
+
+**Startsignale:** Variante 1: D startet auf Höhe der Figur; Variante 2/3: D startet mit As erstem Ballkontakt. Variante 3: P läuft nach dem Pass seitlich mit. Die Zeichnungen unterscheiden Pass, Dribbling, Bewegung, Schuss und Konter; nummerierte Schritte stimmen mit dem Text überein. D1/D2 in der Aufbaukarte sind alternative Positionen, nicht zwei Verteidiger.
+
+**Rotation und Warten:** Ein TW plus drei Trios je Hälfte. Zwei Trios warten seitlich hinter der Startlinie; nächster Start erst bei freiem Schussweg. P → A → D → P beim nächsten eigenen Durchgang. Im Aufwärmen fünf Paare gleichzeitig; bei besetzten Außentoren frei weiterpassen, nicht anstellen. Nach Torpass seitlich wegnehmen und Tor freigeben.
+
+**Ansagen:** „D wartet bis zur Figur!“ / „D startet beim ersten Kontakt!“ / „Pass und hilf seitlich!“ Die Zeitplanung und bisherigen Seiten 1-7 bleiben erhalten; die Zusatzkarten dienen zum Vormachen auf dem Platz.

@@ -7,6 +7,7 @@ from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, Table, Tabl
 from reportlab.lib.styles import ParagraphStyle
 from reportlab.lib.colors import HexColor, white
 from pdf_fonts import register_fonts
+from w02_diagrams import TuesdayDiagram
 
 register_fonts()
 ROOT = Path(__file__).resolve().parents[1]
@@ -94,7 +95,10 @@ def build():
   for block in blocks:
    block=block.strip()
    if not block:continue
-   if block.startswith('[['):story.extend([Diagram(block[2:-2]),Spacer(1,8)]);continue
+   if block.startswith('[['):
+    kind=block[2:-2]
+    drawing=TuesdayDiagram(kind) if kind in ['MEASURE','WARM1','WARM2','V1','V2','V3'] else Diagram(kind)
+    story.extend([drawing,Spacer(1,8)]);continue
    if block.startswith('|'):
     rows=[]
     for line in block.splitlines():

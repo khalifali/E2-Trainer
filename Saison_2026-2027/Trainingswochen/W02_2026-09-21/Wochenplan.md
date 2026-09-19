@@ -49,6 +49,8 @@ Je Hälfte: ein Tor, eine Figur etwa 15 m vor dem Tor, zwei flache Markierungen 
 
 ## Aufwärmen | 5.-17. Minute
 
+**Bildanleitung mit Maßen: Seiten 8-10.**
+
 **Organisation:** je Hälfte fünf Paare, alle gleichzeitig. Ein Ball je Kind in den ersten sechs Minuten; danach ein Ball je Paar. Torhüter wärmen sich zunächst ebenfalls mit den Füßen auf. Tore werden noch nicht beschossen.
 
 **Erste sechs Minuten:** ein Kind führt, der Partner folgt mit eigenem Ball. Alle 45-60 Sekunden Führung wechseln. Richtungswechsel, kurzer Antritt und beidfüßiges Dribbling. Die Figur mit Abstand umlaufen; niemand muss durch denselben Engpass.
@@ -67,6 +69,8 @@ Je Hälfte: ein Tor, eine Figur etwa 15 m vor dem Tor, zwei flache Markierungen 
 [[SHOOT]]
 
 ## Rollen und Ablauf
+
+**Große Einzelskizzen: Variante 1 auf S. 11, Variante 2 auf S. 12, Variante 3 auf S. 13.**
 
 Pro Tor: **1 TW + 3 Dreiergruppen = 10 Kinder.** Ein Trio spielt: P = Passgeber, A = Angreifer, D = Verteidiger. Zwei Trios warten seitlich hinter der Startlinie, außerhalb des Schusskorridors. Dort dürfen sie einen Ball ruhig im Dreieck passen; nicht quer ins Übungsfeld spielen.
 
@@ -227,3 +231,120 @@ Für 14/15/16/17 die Hälften 7+7 / 7+8 / 8+8 / 8+9 verwenden. Feldrollen zu Beg
 **Rückblick:** Gelungener Abschluss: __________ · Sichere Außenlösung: __________ · Nächstes Mal wiederholen: __________
 
 Bearbeitbare Klarstellungen: [Ergaenzungen_und_Klarstellungen.md](Ergaenzungen_und_Klarstellungen.md). PDF erzeugen: `python3 scripts/wochenplan_w02.py`.
+
+
+<!-- PAGE -->
+# Dienstag | Aufbau zum Abmessen
+
+Bildkarte 1 · Vor dem Training aufbauen · gilt spiegelgleich an beiden Toren
+
+[[MEASURE]]
+
+## Von der Torlinie aus messen
+
+**1. Feld:** 30 m breit und 23 m lang. Tor mittig auf der Grundlinie; hier mit 5 m Breite gezeichnet. Das vorhandene Spieltagstor verwenden.
+
+**2. Figur:** mittig, 15 m vor der Torlinie. Links und rechts mindestens 2 m zum Vorbeidribbeln lassen. Der Kreis zeigt diesen Abstand, er muss nicht auf dem Rasen markiert werden.
+
+**3. Start:** A mittig bei 21 m; P 10 m seitlich daneben auf gleicher Höhe. Zuspiel also etwa 10 m. Bei unsicheren Pässen P zunächst 6-8 m neben A stellen. D1 steht 2 m hinter A. D2 steht 12 m vor dem Tor und 4 m seitlich von der Mitte: 3 m torseitig hinter der Figur. D1 und D2 sind alternative Positionen desselben Kindes.
+
+**4. Abschlussbereich:** 10-14 m vor dem Tor; nur an den Seiten flach markieren. Die blaue Fläche ist eine Orientierung, keine Pflichtzone. **5. Außentore:** je 3 m breit auf der 23-m-Linie, Mittelpunkte 4 m von den Seitenlinien entfernt.
+
+**Warten:** Trio 2 und 3 seitlich hinter der Startlinie, etwa 4 m hinter der 23-m-Linie. In der Mitte den Zugang freilassen. Zum nächsten Durchgang geht nur ein Trio ins Feld. Wartende Kinder müssen gegenüberliegende Gruppen und deren Laufwege freihalten.
+
+<!-- PAGE -->
+# Aufwärmen 1 | Ich mache es vor!
+
+Dienstag · 5.-11. Minute · 5 Paare pro Hälfte · 10 Bälle
+
+[[WARM1]]
+
+## Vormachen in drei Schritten
+
+**1:** „Sucht euch einen Partner. Jeder hat einen Ball.“ Die fünf Paare verteilen sich im gesamten 30 × 23 m großen Feld; ungefähr 3 m Platz zum nächsten Paar lassen.
+
+**2:** „A fährt vor, B folgt!“ B hält etwa 2-3 m Abstand. A dribbelt eine Kurve, wechselt die Richtung oder beschleunigt kurz. B macht es mit dem eigenen Ball nach. Erst locker beginnen, dann etwas schneller werden.
+
+**3:** Nach 45-60 Sekunden „Tauschen!“ rufen. Die Kinder wechseln die Führung direkt im Paar. Sechs kurze Runden einschließlich kurzer Hinweise ergeben etwa sechs Minuten.
+
+**Was die Zeichnung zeigt:** Alle zehn Kinder sind eingezeichnet. Das blaue Paar zeigt eine Beispielbewegung; die grauen Paare bewegen sich ebenfalls frei. Sie müssen die eingezeichneten Wege nicht nachlaufen. Die gestrichelte grüne Linie zeigt hier den folgenden Spieler mit eigenem Ball.
+
+**Nur zwei Zurufe:** „Ball nah am Fuß!“ - „Schau, wo Platz ist!“ Figur und Tore bleiben stehen; in dieser Phase wird nicht geschossen.
+
+<!-- PAGE -->
+# Aufwärmen 2 | Gemeinsam durchs Tor
+
+Dienstag · 11.-17. Minute · 5 Paare pro Hälfte · 5 Bälle
+
+[[WARM2]]
+
+## Ein Paar einmal langsam zeigen lassen
+
+**1:** A und B stehen zunächst etwa 4-6 m auseinander. A passt zu B. B nimmt seitlich ins Freie mit und dribbelt weiter. A läuft ohne Ball mit und bietet sich erneut an. Erst einige freie Pässe spielen.
+
+**2:** Ist ein Außentor frei, dribbelt B darauf zu. A läuft außen am Tor vorbei und stellt sich etwa 2 m hinter dem Tor anspielbar auf. B passt aus etwa 2-4 m vor dem Tor flach durch das 3 m breite Tor zu A. Kontrollierte Annahme = ein Paarpunkt.
+
+**3:** A nimmt seitlich weg vom Tor mit. Beide verlassen sofort den Torbereich und suchen wieder freien Raum. Nun hat A den Ball und B bietet sich an. Fünf saubere Paarpunkte sammeln; danach wieder bei null beginnen.
+
+**Wichtig bei fünf Paaren und zwei Toren:** Kein Anstellen. Ist ein Tor besetzt, passt das Paar zunächst frei im Feld weiter. Erst anlaufen, wenn das andere Paar das Tor verlassen hat. Tore können von beiden Seiten genutzt werden, aber nicht gleichzeitig von zwei Paaren.
+
+**Bild lesen:** Die helle Position 1A hinter dem Tor zeigt denselben Spieler später. Gestrichelt blau = A läuft ohne Ball; grün = B dribbelt; durchgezogen blau = Pass. „Passt genau und macht das Tor wieder frei!“
+
+<!-- PAGE -->
+# Variante 1 | Der Verfolger kommt
+
+Dienstag · 20.-32. Minute · Zuspiel, Dribbling und Abschluss mit Vorsprung
+
+[[V1]]
+
+## Reihenfolge 1 - 2 - 3
+
+**1 | Pass:** P spielt etwa 10 m zu A. A steht 21 m vor dem Tor. D wartet 2 m hinter A, also auf der 23-m-Linie. P bleibt nach dem Pass seitlich am Start; noch kein zweiter Angreifer.
+
+**2 | Dribbling:** A nimmt zum Tor mit und dribbelt links oder rechts an der 15 m vor dem Tor stehenden Figur vorbei. Mindestens 2 m Abstand zur Figur halten. **D startet erst, wenn A mit dem Ball auf Höhe der Figur ist.** D darf danach fair erobern. Die Figur ist kein Hindernisparcours mit vorgeschriebener Seite.
+
+**3 | Schuss:** A schaut hoch und schließt bei freiem Weg etwa aus 10-14 m ab. Bei schwächeren Schützen näher heranlassen. Gewinnt D den Ball, endet in dieser ersten Variante die Aktion; der Außenkonter folgt erst in Variante 2.
+
+**Dann:** Alle verlassen den Schusskorridor seitlich. Nächstes Trio startet erst, wenn TW bereit ist. Höchstens etwa 15 Sekunden pro Aktion. Nach Trio 1 folgen Trio 2 und 3. Beim nächsten eigenen Durchgang werden die Rollen getauscht: P wird A, A wird D, D wird P.
+
+**Ansage:** „D wartet bis zur Figur! A, nutze deinen Vorsprung und schau zum Tor!“ Ist der Vorsprung zu groß, D nach einigen gelungenen Abschlüssen etwas früher starten lassen.
+
+<!-- PAGE -->
+# Variante 2 | Vorne schießen, hinten außen lösen
+
+Dienstag · 32.-44. Minute · 1 gegen 1 nach Zuspiel · gleicher Aufbau
+
+[[V2]]
+
+## Reihenfolge 1 - 2 - 3, bei Ballgewinn 4
+
+**1 | Start:** P passt zu A. D steht jetzt 12 m vor dem Tor, etwa 4 m seitlich von der Mitte. Damit befindet D sich 3 m torseitig hinter der Figur. **D wird mit dem ersten Ballkontakt von A aktiv.** P bleibt am Start.
+
+**2 | Duell:** A dribbelt an der Figur vorbei und sucht den freien Weg. D läuft kontrolliert entgegen, bremst ab und schützt zuerst die Mitte. A darf beide Seiten wählen. D soll A nach außen lenken, ohne zu schieben oder blind auf den Ball zu springen.
+
+**3 | Abschluss:** Ist der Weg frei, schießt A. Ist D im Weg, darf A weiterdribbeln und eine neue Schussposition suchen. Kein Pflichtschuss durch den Verteidiger hindurch.
+
+**4 | Nur nach Ballgewinn von D:** D dreht vom eigenen Tor weg und dribbelt durch eines der beiden 3 m breiten Außentore. A darf sofort zurückerobern. Der rote Konterpfeil zeigt eine neue Spielsituation, keinen gleichzeitigen zweiten Ball.
+
+**Ende und Wechsel:** Tor, Ball im Aus, erfolgreicher Außenkonter oder etwa 15 Sekunden: Aktion beenden. Trio seitlich heraus; nächstes Trio hinein. Rollenwechsel wie Variante 1. „D, innen zu! Ball gewonnen? Schau nach außen!“
+
+<!-- PAGE -->
+# Variante 3 | Mein Passgeber hilft
+
+Dienstag · 44.-56. Minute · 2 gegen 1 nach Zuspiel · gleicher Aufbau
+
+[[V3]]
+
+## Die Zeichnung zeigt eine mögliche Lösung
+
+**1 | Zuspiel:** P passt zu A. A und D starten wie in Variante 2. D ist mit dem ersten Kontakt von A aktiv.
+
+**2 | Gemeinsam angreifen:** A dribbelt um die Figur. P läuft jetzt nach dem Pass seitlich nach vorne und bietet sich etwa 5-8 m neben A an. P bleibt mit Abstand zur Figur und läuft nicht direkt hinter A her. D muss nun zwei mögliche Angreifer beachten.
+
+**3 | Entscheiden:** Greift D den Ballführenden A an, kann A zu P passen. Deckt D den Passweg zu P, darf A selbst zum Tor ziehen. Die Zeichnung zeigt den Pass nach links als Beispiel. Es gibt keine feste Passpflicht und keinen vorgeschriebenen Doppelpass.
+
+**4 | Abschluss:** In der gezeichneten Lösung schießt P nach der Annahme. Ein Tor zählt unabhängig davon, ob A oder P abschließt. Nach Ballgewinn von D kontert D auf ein Außentor; beide Angreifer dürfen zurückerobern.
+
+**Wechsel:** Nach höchstens etwa 15 Sekunden oder einem klaren Aktionsende seitlich heraus. Trio 2 folgt, danach Trio 3. Beim nächsten eigenen Durchgang P → A → D → P. So übt jedes Kind Zuspiel, Angriff und Verteidigung.
+
+**Ansage:** „Pass und hilf seitlich! A, schau: selber gehen oder abspielen?“ Wenn das 2 gegen 1 gut läuft, im letzten Block die Kinder selbst entscheiden lassen und wenig unterbrechen.
