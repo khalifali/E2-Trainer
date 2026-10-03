@@ -6,6 +6,9 @@ Trainings- und Organisationsunterlagen für die **E-Jugend, Saison 2026/2027**.
 
 ## Schnellzugriff
 
+- [Woche 4: Dreiecksspiel, Doppelpass, Torabschluss und Verteidigen (PDF)](Saison_2026-2027/Trainingswochen/W04_2026-10-05/E-Jugend_Trainingsplan_Woche_4.pdf)
+- [Woche 4: bearbeitbarer Wochenplan](Saison_2026-2027/Trainingswochen/W04_2026-10-05/Wochenplan.md)
+
 - [Erste Trainingswoche: Ablauf, Material und Skizzen (PDF)](Saison_2026-2027/Trainingswochen/W01_2026-09-14/E-Jugend_Trainingsplan_Woche_1.pdf)
 - [Erste Trainingswoche: bearbeitbarer Text](Saison_2026-2027/Trainingswochen/W01_2026-09-14/Wochenplan.md)
 - [Trainersprache: Sätze und Ansprachen (PDF)](Saison_2026-2027/Trainersprache/01_Saetze_und_Ansprachen.pdf)
@@ -47,6 +50,7 @@ Python 3 und ReportLab installieren:
 ```bash
 python3 -m pip install -r requirements.txt
 python3 scripts/wochenplan_w01.py
+python3 scripts/wochenplan_w04.py
 python3 scripts/text_pdf.py
 ```
 
